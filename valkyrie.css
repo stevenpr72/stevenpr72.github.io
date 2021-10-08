@@ -129,9 +129,9 @@ html {
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     transition: all 1s;
-    margin:0 3%;
+
     display:block;
-    width: 200px;
+
     color: #922724;
 }
 .btn:after, .btn:before {
