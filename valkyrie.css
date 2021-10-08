@@ -30,7 +30,7 @@ html {
     margin: 0 auto;
     margin-bottom: 0;
     font-size: 8em;
-    color: #922724;
+    color: rgba(146, 39, 36,1.0);
    }
 
    .shimmer {
