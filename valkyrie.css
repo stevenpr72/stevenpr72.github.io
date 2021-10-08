@@ -17,6 +17,7 @@ body {
     background-attachment: fixed;
     background-size:100% 100%;
     height: 100%;
+
 }
 
 html {
@@ -109,3 +110,10 @@ p a:visted {
     background-position: top right;
   }
 }
+
+
+.center 
+{
+    text-align: center;
+}
+
