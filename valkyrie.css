@@ -484,4 +484,13 @@ body {
     text-align: center;
     line-height: 2em;
   }
+
+  .shimmer{
+    font-family: "Norse";
+    font-weight: 300;
+    margin: 0 auto;
+    margin-bottom: 0;
+    font-size: 8em;
+    padding-right:10px;
+  }
 }
