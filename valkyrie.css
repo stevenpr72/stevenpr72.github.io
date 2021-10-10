@@ -38,7 +38,7 @@ html {
   font-weight: 300;
   margin: 0 auto;
   margin-bottom: 0;
-  font-size: 8em;
+  font-size: 200px;
 }
 
 .shimmer {
@@ -480,7 +480,7 @@ body {
     height:100%;
   }
   .caption {
-    font-size: 15px;
+    font-size: 1.0rem;
     text-align: center;
     line-height: 2em;
   }
@@ -490,7 +490,7 @@ body {
     font-weight: 300;
     margin: 0 auto;
     margin-bottom: 0;
-    font-size: 8em;
+    font-size: 100px;
     padding-right:10px;
   }
 }
