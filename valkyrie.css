@@ -189,6 +189,8 @@ html {
   text-align: center;
   line-height: 2em;
 }
+
+
 .item {
   width: 30%;
   display: inline-block;
@@ -476,5 +478,10 @@ body {
   .photosPadding {
     padding-top:150px;
     height:100%;
+  }
+  .caption {
+    font-size: 1.0rem;
+    text-align: center;
+    line-height: 2em;
   }
 }
