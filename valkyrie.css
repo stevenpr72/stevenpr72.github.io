@@ -497,7 +497,14 @@ body {
     font-size: 100px;
     padding-right:10px;
   }
-
+  .titleText{
+    font-family: "Norse";
+    font-weight: 300;
+    margin: 0 auto;
+    margin-bottom: 0;
+    font-size: 100px;
+    color: rgba(146, 39, 36,1.0);
+  }
 
 }
 
