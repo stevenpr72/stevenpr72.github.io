@@ -522,7 +522,7 @@ body {
 .profile-card {
   flex: 1 1 30%;
   max-width: 300px;
-  background: #fff;
+  background: #333;
   padding: 20px 60px;
   display: flex;
   flex-direction: column;
@@ -531,6 +531,7 @@ body {
   box-shadow: 0 0 2px 0 #ccc;
   transition: .3s;
   margin: 10px;
+  color: #d4cd96;
 }
 
 .profile-card:hover {
@@ -553,13 +554,13 @@ body {
 
 .profile-position {
   font-size: 14px;
-  color: #777;
+  color: #d4cd96;
 }
 
 .button {
   margin: 40px 0 0 0;
   padding: 10px 30px;
-  color: #999;
+  color: #d4cd96;
   text-decoration: none;
   border: 1px solid #999;
   border-radius: 4px;
