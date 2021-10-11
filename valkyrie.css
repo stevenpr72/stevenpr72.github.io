@@ -593,7 +593,7 @@ html {
 }
 
 .commentsposition{
-  position:absolute; top:15%; left: 20%;
+  position:absolute; top:20%; left: 30%;
 }
 
 main {
@@ -745,7 +745,7 @@ main .helper span {
    width:100px;
  }
  .commentsposition{
-  position:absolute; top:15%; left: 20%;
+  position:absolute; top:20%; left: 40%;
  }
  .commentsflex{
    display:block;
