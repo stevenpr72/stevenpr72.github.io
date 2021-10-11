@@ -744,6 +744,9 @@ main .helper span {
    height:250px;
    width:150px;
  }
+ .commentsposition{
+  position:relative; top:15%; left: 20%;
+ }
 }
 @media screen and (max-width: 400px) {
 
