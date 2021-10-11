@@ -592,6 +592,9 @@ html {
   width:640px; height:450px
 }
 
+.commentsposition{
+  position:absolute; top:15%; left: 20%;
+}
 
 main {
   position: relative;
