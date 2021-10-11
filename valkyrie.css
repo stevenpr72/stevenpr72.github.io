@@ -588,6 +588,10 @@ html {
 
 /* Littles CSS */
 
+.googlewidth{
+  width:640px; height:450px
+}
+
 
 main {
   position: relative;
@@ -674,7 +678,7 @@ main .helper span {
 @media screen and (max-width: 900px) and (min-width: 400px) {
 
   .menu {
-    width: 120px;
+    width: 140px;
  }
   .menu .avatar {
     padding: 0.5em;
@@ -731,6 +735,11 @@ main .helper span {
   .menu ul li:hover span {
     opacity: 1;
     transform: translate3d(0px,-50%,0);
+ }
+
+ .googlewidth{
+   height:250px;
+   width:150px;
  }
 }
 @media screen and (max-width: 400px) {
