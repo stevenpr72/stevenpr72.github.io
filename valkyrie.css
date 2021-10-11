@@ -742,12 +742,20 @@ main .helper span {
 
  .googlewidth{
    height:250px;
-   width:150px;
+   width:100px;
  }
  .commentsposition{
   position:relative; top:15%; left: 20%;
  }
+ .commentsflex{
+   display:block;
+ }
 }
+
+.commentsflex{
+  display:flex;
+}
+
 @media screen and (max-width: 400px) {
 
   .menu {
