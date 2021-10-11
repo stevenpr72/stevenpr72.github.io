@@ -612,8 +612,9 @@ main .helper span {
   display: block;
 }
 .menu {
-  background: #5bc995;
-  height: 100vh;
+  background: #7e0f12;
+  color: white;
+  height: 100%;
   width: 240px;
   position: fixed;
   top: 0;
@@ -673,7 +674,7 @@ main .helper span {
 @media screen and (max-width: 900px) and (min-width: 400px) {
 
   .menu {
-    width: 90px;
+    width: 120px;
  }
   .menu .avatar {
     padding: 0.5em;
