@@ -745,7 +745,7 @@ main .helper span {
    width:100px;
  }
  .commentsposition{
-  position:relative; top:15%; left: 20%;
+  position:absolute; top:15%; left: 20%;
  }
  .commentsflex{
    display:block;
