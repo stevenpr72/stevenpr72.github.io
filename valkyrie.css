@@ -342,9 +342,6 @@ html {
     font-style: italic
 }
 
-body {
-    background-color: #f1f1f2
-}
 
 .mt-30 {
     margin-top: 30px
@@ -674,9 +671,7 @@ main .helper span {
   outline: none;
 }
 @media screen and (max-width: 900px) and (min-width: 400px) {
-  body {
-    padding-left: 90px;
- }
+
   .menu {
     width: 90px;
  }
@@ -738,9 +733,7 @@ main .helper span {
  }
 }
 @media screen and (max-width: 400px) {
-  body {
-    padding-left: 0;
- }
+
   .menu {
     width: 230px;
     box-shadow: 0 0 0 100em rgba(0,0,0,0);
